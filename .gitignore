@@ -1,0 +1,21 @@
+# API keys
+.env
+secrets.json
+*_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.pdf
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
